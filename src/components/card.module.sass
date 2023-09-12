@@ -1,7 +1,13 @@
 .card-container
   box-shadow: rgba(0, 0, 0, 0.24) 0 3px 8px
   border-radius: 2rem
-  width: 650px
+  width: 800px
   background-color: var(--White)
   display: flex
   justify-content: space-between
+
+@media screen and (max-width: 900px)
+  .card-container
+    flex-direction: column
+    box-shadow: none
+    width: 70vw
