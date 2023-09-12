@@ -1,11 +1,9 @@
-import './App.css';
 import Card from "./components/Card";
+import './App.sass';
 
 function App() {
   return (
-    <div className="App">
-      <Card/>
-    </div>
+    <Card/>
   );
 }
 
