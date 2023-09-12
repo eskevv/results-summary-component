@@ -1,0 +1,22 @@
+[
+  {
+    "category": "Reaction",
+    "value": 80,
+    "icon": "icon-reaction"
+  },
+  {
+    "category": "Memory",
+    "value": 92,
+    "icon": "icon-memory"
+  },
+  {
+    "category": "Verbal",
+    "value": 61,
+    "icon": "icon-verbal"
+  },
+  {
+    "category": "Visual",
+    "value": 72,
+    "icon": "icon-visual"
+  }
+]
